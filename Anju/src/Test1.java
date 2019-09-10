@@ -8,6 +8,7 @@ public class Test1
 		int b1 = 20;
 		int c= 30;
 		int d= 40;
+		String E= WORLD
 	}
 	
 }
